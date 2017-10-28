@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{BA964FF8-A336-4E21-A83E-57B56BA01098}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThoughtWorks.ConferenceTrackManager/Factories/TalkFactory.cs">
+    <Files>
+      <File FileName="ThoughtWorks.ConferenceTrackManager/Configuration/AppConfiguration.cs" Line="5" Column="46" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager/appSettings.json" Line="3" Column="9" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager/App/ConferenceSessionBuilder.cs" Line="7" Column="1" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager/talks.txt" Line="11" Column="21" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager/Models/ConferenceSession.cs" Line="3" Column="42" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager/Models/ConferenceTime.cs" Line="2" Column="46" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager/Models/Conference.cs" Line="5" Column="1" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager.Tests/Models/ConferenceTimeTests.cs" Line="5" Column="46" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager.Tests/App/ConferenceSessionBuilderTests.cs" Line="14" Column="1" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager.Tests/Models/ArgumentTests.cs" Line="6" Column="46" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager/Program.cs" Line="9" Column="41" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager/Factories/ConferenceFactory.cs" Line="7" Column="6" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager.Tests/Factories/TalkFactoryTests.cs" Line="6" Column="1" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager/Models/Argument.cs" Line="4" Column="46" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager/Access/OutputWriter.cs" Line="2" Column="46" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager.Tests/Models/AfternoonConferenceSessionTests.cs" Line="7" Column="46" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager.Tests/Models/ConferenceSessionTests.cs" Line="2" Column="42" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager/App/ConferenceManager.cs" Line="2" Column="42" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager.Tests/App/ConferenceManagerTests.cs" Line="9" Column="46" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager.Tests/Models/ConferenceTests.cs" Line="7" Column="46" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager/Factories/TalkFactory.cs" Line="8" Column="6" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager.Tests/Models/MorningConferenceSessionTests.cs" Line="4" Column="42" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager/Access/FileSystem.cs" Line="4" Column="1" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager/Exceptions/ConferenceSetUpException.cs" Line="2" Column="57" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager/Models/Talk.cs" Line="9" Column="16" />
+      <File FileName="ThoughtWorks.ConferenceTrackManager.Tests/Models/TalkTests.cs" Line="8" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ThoughtWorks.ConferenceTrackManager" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ThoughtWorks.ConferenceTrackManager PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
